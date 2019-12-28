@@ -1,0 +1,9 @@
+﻿  task1.cpp
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(116,13): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(151,26): warning C4566: character represented by universal-character-name '\u251C' cannot be represented in the current code page (1251)
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(151,26): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(151,37): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1251)
+C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\task1\task1.cpp(151,37): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1251)
+  task1.vcxproj -> C:\Users\Admin\Desktop\SDP-HOMEWORK3\task1\Debug\task1.exe
